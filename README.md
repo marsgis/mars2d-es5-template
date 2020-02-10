@@ -1,5 +1,5 @@
-# mars2d-simple-es5
- Mars2D项目模版 - ES5传统版，该项目是传统模式前端的最简单mars3d项目应用的模版
+# Mars2D项目模版 - ES5传统版
+ 传统模式Web前端技术栈下的最简mars2d应用的项目模版
   
 Mars2D更多介绍请点击： [http://leaflet.marsgis.cn](http://leaflet.marsgis.cn)
 
