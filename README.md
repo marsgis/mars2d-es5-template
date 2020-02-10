@@ -1,7 +1,6 @@
 # Mars2D项目模版 - ES5传统版
- 传统模式Web前端技术栈下的最简mars2d应用的项目模版
-  
-Mars2D更多介绍请点击： [http://leaflet.marsgis.cn](http://leaflet.marsgis.cn)
+ 传统模式Web前端技术栈下的最简[Mars2D](http://leaflet.marsgis.cn)应用的项目模版
+   
 
 
 ## 使用说明
