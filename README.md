@@ -7,9 +7,9 @@ Mars2D更多介绍请点击： [http://leaflet.marsgis.cn](http://leaflet.marsgi
 ## 使用说明
  在任意开发编辑器（如vscode等）或http服务器(如node、nginx、tomcat、IIS等)下直接运行浏览index.html即可
 
-## 运行效果
 
-demo系统： [http://leaflet.marsgis.cn/demo.html](http://leaflet.marsgis.cn/demo.html)
+## 运行效果
+ demo系统： [http://leaflet.marsgis.cn/demo.html](http://leaflet.marsgis.cn/demo.html)
 
  ![image](http://leaflet.marsgis.cn/docs/img/project/1.jpg)
  
