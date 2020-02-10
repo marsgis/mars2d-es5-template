@@ -15,5 +15,5 @@ Mars2D更多介绍请点击： [http://leaflet.marsgis.cn](http://leaflet.marsgi
  
  
 ## 版权说明
- 本项目主要是为了展示Mars2D的项目应用，大家仅限学习之用，如需用于商业项目，请联系购买[http://leaflet.marsgis.cn](火星科技)SDK授权。
- 并且Mars2D-SDK类库并未开源（即libs/leaflet-mars/leaflet.js）,内部有作者公司logo及时效限制。
+ 本项目主要是为了展示Mars2D的项目应用，仅限大家学习之用，如需用于商业项目，请联系购买[火星科技](http://leaflet.marsgis.cn)SDK授权。
+ 并且Mars2D-SDK类库并未开源（即libs/leaflet-mars/）,内部有作者公司logo及时效限制。
