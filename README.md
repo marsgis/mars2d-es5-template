@@ -1,7 +1,7 @@
 # Mars2D最简项目模版 - ES5传统版
  传统模式Web前端技术栈下的最简[Mars2D](http://leaflet.marsgis.cn)应用的项目模版
 
- 其他技术栈，请参考 [Mars2D开源导航](https://github.com/marsgis/MarsGIS-for-Leaflet)
+ 其他技术栈，请参考 [Mars2D开源导航](https://github.com/marsgis/mars2d)
  
  
 
