@@ -22,11 +22,8 @@
  在任意开发编辑器（如vscode等）或http服务器(如node、nginx、tomcat、IIS等)下直接运行浏览index.html即可
 
 ### 运行效果 
- [在线Demo](http://mars2d.cn/project/es5-template/)  
-
- ![image](http://mars2d.cn/project/es5-template/screenshot.jpg)
+ [在线体验]( http://marsgis.gitee.io/mars2d-es5-template)  
  
-
 
 ## 压缩及混淆
  如果需要编译、对整站压缩及混淆，请参考：[https://github.com/muyao1987/web-dist](https://github.com/muyao1987/web-dist)
